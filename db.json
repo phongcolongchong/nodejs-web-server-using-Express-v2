@@ -2,7 +2,10 @@
   "users": [
     {
       "name": "Phong",
-      "id": "7QotSLGTc"
+      "phone": "0909 444 888",
+      "id": "7QotSLGTc",
+      "email": "quangphong1701@gmail.com",
+      "password": "123456"
     },
     {
       "name": "Minh",
@@ -12,6 +15,16 @@
       "name": "Vy",
       "phone": "0909 444 666",
       "id": "OCgtFaHoB"
+    },
+    {
+      "name": "Linh",
+      "phone": "0333 666 888",
+      "id": "Nv3sXIidy"
+    },
+    {
+      "name": "Vu",
+      "phone": "0909 123 456",
+      "id": "1lOwaQuvc"
     }
   ]
 }
