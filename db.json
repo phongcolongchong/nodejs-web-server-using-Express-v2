@@ -8,23 +8,31 @@
       "password": "e10adc3949ba59abbe56e057f20f883e"
     },
     {
-      "name": "Minh",
-      "id": "jvKP_dt_s"
-    },
-    {
-      "name": "Vy",
-      "phone": "0909 444 666",
-      "id": "OCgtFaHoB"
-    },
-    {
-      "name": "Linh",
-      "phone": "0333 666 888",
-      "id": "Nv3sXIidy"
-    },
-    {
       "name": "Vu",
       "phone": "0909 123 456",
       "id": "1lOwaQuvc"
+    },
+    {
+      "name": "Long",
+      "phone": "0234 344 234",
+      "id": "EvlmNp3s8"
+    },
+    {
+      "name": "Tom",
+      "phone": "0234 234 123",
+      "id": "EB00l0ixP"
+    },
+    {
+      "name": "Linh",
+      "phone": "0343 456 222",
+      "id": "VFmDt2rWv",
+      "avatar": "uploads/455143ca10dfa62fff1240ef9f6aa223"
+    },
+    {
+      "name": "Vy",
+      "phone": "0909 123 456",
+      "id": "t4rEKyr2O",
+      "avatar": "uploads/8ae156334e5566ec855b8eb0e553714c"
     }
   ],
   "products": [
@@ -627,6 +635,15 @@
       "name": "Butter Sweet",
       "image": "https://loremflickr.com/320/240",
       "description": "dui maecenas tristique est et tempus semper est quam pharetra magna ac consequat metus sapien ut nunc vestibulum ante ipsum"
+    }
+  ],
+  "sessions": [
+    {
+      "id": "wGnGOJEpJ",
+      "cart": {
+        "d6e75358-c8b3-48c9-bcd4-86eb91945bc2": 3,
+        "1a4f9017-6769-4546-828c-320b2532ed44": 1
+      }
     }
   ]
 }
